@@ -4,7 +4,7 @@ Students should clone their individual file and update them with links to specif
 
 ## Mod 3 Deliverables:
 
-* [Link to resume](https://1drv.ms/b/s!Aq_tT7YbzIDhgXFIV18PpzI3ZwBv)
+* [Link to resume](https://1drv.ms/b/s!Aq_tT7YbzIDhgXUmozH824YFlDq2)
 * [Link to Turing portfolio complete with your name, photo, description, 1 project, and resume](https://www.turing.io/alumni/kristen-squee-mueller)
 * [Link to Flower Exercise using this](https://gist.github.com/squeemishly/e634e46ac6c19a38a15a9319034dba94)
 * [Link to Trello Board with companies that are being tracked](https://trello.com/b/S9WUGjZq/job-search)
